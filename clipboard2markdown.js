@@ -2,6 +2,7 @@
   'use strict'
 
   // http://pandoc.org/README.html#pandocs-markdown
+  // http://pandoc.org/README.html#pandocs-markdown
   var pandoc = [
     {
       filter: 'h1',
